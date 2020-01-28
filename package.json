@@ -1,0 +1,14 @@
+{
+  "name": "cw_ops_practice",
+  "version": "1.0.0",
+  "description": "Make practice mp3's for CWOps beginner program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Percival <m@mdp.im>",
+  "license": "MIT",
+  "dependencies": {
+    "morse-pro": "^2.0.0"
+  }
+}
